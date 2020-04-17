@@ -6,9 +6,8 @@ html, body {
 }
 
 #wrap{
-	/*margin: 0 auto;*/
 	width: 1000px;
-	background:#B5B67D;
+	background: #B5B67D;
 
 }
 
@@ -18,14 +17,14 @@ html, body {
 }
 
 #sidebar{
-	float:right;
+	float: right;
 	width: 175px;
-	padding: 0 5px 0 20px;	
+	padding: 0 5px 0 20px;
 }
 
 
 #content {
-	background-color: #738F69;	
+	background-color: #738F69;
 	float: left;
 	width: 770px;
 	padding: 20px 10px;
@@ -42,8 +41,8 @@ html, body {
 #content ul li {
 	font-weight: bold;
 	margin: 2px;
-	text-decoration: none; 
-	padding: .2em 1em; 
+	text-decoration: none;
+	padding: 0.2em 1em;
 }
 
 #nav {
@@ -59,16 +58,16 @@ html, body {
 	list-style-type: none;
 }
 
-#nav ul li { 
-	display: inline; 
+#nav ul li {
+	display: inline;
 }
 
-#nav ul li a { 
-	text-decoration: none; 
-	padding: .2em 1em; 
+#nav ul li a {
+	text-decoration: none;
+	padding: 0.2em 1em;
 }
 
 #footer {
-	clear:both;
+	clear: both;
 	text-align: center;
 }
