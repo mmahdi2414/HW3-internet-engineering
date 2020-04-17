@@ -7,7 +7,7 @@ html, body {
 }
 
 #wrap{
-	width: 1000px;
+	width: 90%;
 	background: #B5B67D;
 
 }
@@ -19,16 +19,16 @@ html, body {
 
 #sidebar{
 	float: right;
-	width: 175px;
-	padding: 0 5px 0 20px;
+	width: 20%;
+	padding: 0 2.5% 0 2.5%;
 }
 
 
 #content {
 	background-color: #738F69;
 	float: left;
-	width: 770px;
-	padding: 20px 10px;
+	width: 70%;
+  padding: 20px 2.5%;
 }
 
 #content ul
