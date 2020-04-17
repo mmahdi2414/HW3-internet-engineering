@@ -7,7 +7,7 @@ html, body {
 
 #wrap{
 	/*margin: 0 auto;*/
-	/*width: 1000px;*/
+	width: 1000px;
 	background:#B5B67D;
 
 }
@@ -19,14 +19,15 @@ html, body {
 
 #sidebar{
 	float:right;
-	padding: 0 25px 0 0;	
+	width: 175px;
+	padding: 0 5px 0 20px;	
 }
 
 
 #content {
 	background-color: #738F69;	
 	float: left;
-	width: 995px;
+	width: 770px;
 	padding: 20px 10px;
 }
 
