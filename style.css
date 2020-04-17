@@ -1,8 +1,10 @@
 html, body {
 	padding: 0 100px;
+	width: 1200px;
 	margin: 0;
 	align-items: center;
 	background-color: #54704A;
+
 }
 
 #wrap{
